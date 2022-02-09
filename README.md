@@ -7,9 +7,15 @@ This example here shows fitting a 3D gaussian curve to estimate 5 parameters. MA
 
 ![Model](https://user-images.githubusercontent.com/80547721/153137026-b692768c-087a-4025-8fc7-e8c4f8409337.jpg)
 
-![ResultCurveFitting](https://user-images.githubusercontent.com/80547721/153137064-e8dbe005-7ef7-4ebb-a8c8-c30215b10e3a.PNG)
+Figure 1 - (a) Model of 3D Gaussian (b) With Noise
 
 ![MATLAB_Result](https://user-images.githubusercontent.com/80547721/153137362-08920e7c-8055-40cd-909d-bd6a579a8297.PNG)
+
+Figure 2 - Result using MATLAB 
+
+![ResultCurveFitting](https://user-images.githubusercontent.com/80547721/153137064-e8dbe005-7ef7-4ebb-a8c8-c30215b10e3a.PNG)
+
+Figure 3 - Result from g2o
 
 
 [1]https://www.mathworks.com/help/optim/ug/lsqnonlin.html?searchHighlight=lsqnonlin&s_tid=srchtitle_lsqnonlin_1
