@@ -5,9 +5,9 @@ Now, g2o [3] open source library solves this issue. However, many curve fitting 
 
 [1]https://www.mathworks.com/help/optim/ug/lsqnonlin.html?searchHighlight=lsqnonlin&s_tid=srchtitle_lsqnonlin_1
 
-[2] W. H., Teukolsky, S. A., Vetterling, W. T. and Flannery, B. P. [2002]. Numerical
-Recipes in C++: The Art of Scientific Computing, 2nd edn, Cambridge University
+[2] W. H., Teukolsky, S. A., Vetterling, W. T. and Flannery, B. P. [2002]. Numerical Recipes in C++: The Art of Scientific Computing, 2nd edn, Cambridge University
 Press.
+
 [3] https://github.com/raulmur/ORB_SLAM2
 [4] https://programmerall.com/article/51531612288/
 [5] https://github.com/RainerKuemmerle/g2o/blob/master/g2o/examples/data_fitting/curve_fit.cpp
