@@ -9,5 +9,7 @@ Now, g2o [3] open source library solves this issue. However, many curve fitting 
 Press.
 
 [3] https://github.com/raulmur/ORB_SLAM2
+
 [4] https://programmerall.com/article/51531612288/
+
 [5] https://github.com/RainerKuemmerle/g2o/blob/master/g2o/examples/data_fitting/curve_fit.cpp
