@@ -6,12 +6,15 @@ Now, g2o [3] open source library solves this issue. However, many curve fitting 
 This example here shows fitting a 3D gaussian curve to estimate 5 parameters. MATLAB is used to generate data points and then a nonlinear least square method is used to estimate the parameters. The result matches what g2o produces.
 
 ![Model](https://user-images.githubusercontent.com/80547721/153137026-b692768c-087a-4025-8fc7-e8c4f8409337.jpg)
+
 Figure 1 - (a) Model of 3D Gaussian (b) With Noise
 
 ![MATLAB_Result](https://user-images.githubusercontent.com/80547721/153137362-08920e7c-8055-40cd-909d-bd6a579a8297.PNG)
+
 Figure 2 - Result using MATLAB 
 
 ![ResultCurveFitting](https://user-images.githubusercontent.com/80547721/153137064-e8dbe005-7ef7-4ebb-a8c8-c30215b10e3a.PNG)
+
 Figure 3 - Result from g2o
 
 
