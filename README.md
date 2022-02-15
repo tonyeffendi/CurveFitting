@@ -18,6 +18,11 @@ Figure 2 - Result using MATLAB
 Figure 3 - Result from g2o
 
 
+Prerequisite:
+- eigen: 3.1.4(use this version for the g2o below)
+- g2o:  git checkout 20170730_git
+
+
 [1]https://www.mathworks.com/help/optim/ug/lsqnonlin.html?searchHighlight=lsqnonlin&s_tid=srchtitle_lsqnonlin_1
 
 [2] W. H., Teukolsky, S. A., Vetterling, W. T. and Flannery, B. P. [2002]. Numerical Recipes in C++: The Art of Scientific Computing, 2nd edn, Cambridge University
